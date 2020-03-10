@@ -13,7 +13,13 @@
 4. Art
 
 I really like social media, no to post stuff really but to look at memes, heres the link to my twitter, https://twitter.com/Bre_Bolin. 
+heres a meme I like, 
 
-[logo]: https://www.google.com/search?q=winnie+the+pooh&safe=active&rlz=1C5CHFA_enUS864US864&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiutofuvJDoAhUCB50JHYDgAMUQ_AUoAXoECBcQAw&biw=726&bih=637#imgrc=2QTaUNagtaFhVM
+![good meme](https://video-images.vice.com/articles/5dfcdf5174a820009a1b4a41/lede/1576853802436-chicky-nuggies.jpeg?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*) "Good Meme"
+
+So now im going to attempt to make a table based on marvel character about who is the best and who is trash. 
+| Good Bois      | Trash.  |
+|----------------|:-------:|
+|Captain America |
 
 
