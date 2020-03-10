@@ -17,6 +17,8 @@ heres a meme I like,
 
 ![good meme](https://video-images.vice.com/articles/5dfcdf5174a820009a1b4a41/lede/1576853802436-chicky-nuggies.jpeg?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*) "Good Meme"
 
+`Heres my coding`
+
 So now im going to attempt to make a table based on marvel character about who is the best and who is trash. 
 | Good Bois      | Trash.         |
 |----------------|:--------------:|
@@ -38,6 +40,15 @@ I now have to use HTML which I hvae no idea with it is so I'm very confused
 Here is my Horizontal rule 
 ---
 wow such division 
+
+
+Well as you can see I've been using line breaks through out this assignment but heres some more.
+
+
+
+
+
+
 
 
 
