@@ -30,9 +30,15 @@ As said by Michael Scott,
 >The worst thing about prison was the dementors.
 
 I now have to use HTML which I hvae no idea with it is so I'm very confused 
-<dl>
   <dt> this is a sentence typed using the HTML format.
+ 
+ 
+ 
    
-   
+Here is my Horizontal rule 
+---
+wow such division 
+
+
 
 
