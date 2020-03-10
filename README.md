@@ -25,6 +25,9 @@ So now im going to attempt to make a table based on marvel character about who i
 |Loki            | Thanos         |
 |Bucky Barns     | Vision         |
 
+This quote gets me weak when ever i hear it, its from the office. In my opinion it is the best quote to come out of the office, since i believ the office is over hyped and there are way better shows. 
+As said by Michael Scott,
+>The worst thing about prison was the dementors.
 
 
 
