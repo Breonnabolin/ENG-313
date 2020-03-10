@@ -18,8 +18,13 @@ heres a meme I like,
 ![good meme](https://video-images.vice.com/articles/5dfcdf5174a820009a1b4a41/lede/1576853802436-chicky-nuggies.jpeg?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*) "Good Meme"
 
 So now im going to attempt to make a table based on marvel character about who is the best and who is trash. 
-| Good Bois      | Trash.  |
-|----------------|:-------:|
-|Captain America |
+| Good Bois      | Trash.         |
+|----------------|:--------------:|
+|Captain America | Captain Marvel |
+|Iron Man        | Ancient One    |
+|Loki            | Thanos         |
+|Bucky Barns     | Vision         |
+
+
 
 
